@@ -23,6 +23,7 @@ end
 
 group :test do
   gem 'capybara', '>= 3.26'
+  gem 'mocha'
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
