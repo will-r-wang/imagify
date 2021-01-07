@@ -3,9 +3,9 @@
 one:
   title: MyString
   caption: MyText
-  image_url: MyString
+  image_url: https://cdn.stocksnap.io/img-thumbs/960w/dog-sitting_G0FELKAALC.jpg
 
 two:
   title: MyString
   caption: MyText
-  image_url: MyString
+  image_url: https://cdn.stocksnap.io/img-thumbs/960w/business-people_DUXISHKTT3.jpg
